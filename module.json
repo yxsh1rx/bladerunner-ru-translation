@@ -1,0 +1,26 @@
+{
+  "id": "blade-runner-ru",
+  "title": "Blade Runner - Русский перевод",
+  "description": "Русская локализация для Blade Runner RPG в Foundry VTT.",
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "Твое имя",
+      "url": "https://github.com/твой-профиль"
+    }
+  ],
+  "minimumCoreVersion": "10",
+  "compatibleCoreVersion": "12",
+  "languages": [
+    {
+      "lang": "ru",
+      "name": "Русский",
+      "path": "lang/ru.json",
+      "module": "blade-runner-ru"
+    }
+  ],
+  "url": "https://github.com/твой-профиль/blade-runner-ru",
+  "manifest": "https://твой-сайт/module.json",
+  "download": "https://твой-сайт/blade-runner-ru.zip",
+  "license": "LICENSE"
+}
