@@ -6,7 +6,7 @@
   "authors": [
     {
       "name": "Твое имя",
-      "url": "https://github.com/твой-профиль"
+      "url": "https://github.com/yxsh1rx"
     }
   ],
   "minimumCoreVersion": "10",
@@ -19,8 +19,8 @@
       "module": "blade-runner-ru"
     }
   ],
-  "url": "https://github.com/твой-профиль/blade-runner-ru",
-  "manifest": "https://твой-сайт/module.json",
-  "download": "https://твой-сайт/blade-runner-ru.zip",
+  "url": "https://github.com/yxsh1rx/bladerunner-ru-translation",
+  "manifest": "https://github.com/yxsh1rx/bladerunner-ru-translation/blob/master/module.json",
+  "download": "https://github.com/yxsh1rx/bladerunner-ru-translation/archive/refs/heads/master.zip",
   "license": "LICENSE"
 }
